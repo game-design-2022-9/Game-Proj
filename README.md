@@ -1,1 +1,1 @@
-check out our project on master branch
+check our project on master branch
