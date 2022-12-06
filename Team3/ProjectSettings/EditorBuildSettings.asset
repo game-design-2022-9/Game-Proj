@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Persistent.unity
+    guid: ec7d15a827060ef4f97f7100fd01a737
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: bc0cd519ae5a54930b41c8614f996bce
+  - enabled: 1
+    path: Assets/Scenes/H1.unity
+    guid: 0dc63f7b3b467415c9e6d6a1110c1d90
+  - enabled: 1
+    path: Assets/Scenes/H2 A.unity
+    guid: d111c19dfa4d94068b7ce60f991fdb99
+  - enabled: 1
+    path: Assets/Scenes/H2.unity
+    guid: 771fd289e7df3479f8654ae65ec1f27e
+  - enabled: 1
+    path: Assets/Scenes/H3A.unity
+    guid: 26ce5e0f863a04761aea28c32dd11219
+  - enabled: 1
+    path: Assets/Scenes/H3Aopen.unity
+    guid: 0c061ee113ff54061bbb3f4d20b85715
+  - enabled: 1
+    path: Assets/Scenes/H3.unity
+    guid: 2349303b1683e433ebd8f4d77c6442fc
+  - enabled: 1
+    path: Assets/Scenes/H4Aopen.unity
+    guid: c04db44f62a1f46f4af62e5161628c23
+  - enabled: 1
+    path: Assets/Scenes/H4.unity
+    guid: 02b439edeb2804340bb8012f2261c965
+  - enabled: 1
+    path: Assets/Scenes/H4A.unity
+    guid: fe5fc876289454c6f8c281311d774e42
+  - enabled: 1
+    path: Assets/Scenes/END.unity
+    guid: 452fbeedb137a488c8e05f4a1a56e096
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}
